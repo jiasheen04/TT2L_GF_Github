@@ -1,7 +1,7 @@
-# PROJECT PART 1 
-# Campus Ride-Sharing Platform with Parking System Integration
+### PROJECT PART 1 
+### Campus Ride-Sharing Platform with Parking System Integration
 
-## Folder Structure
+#### Folder Structure
 
 - `TeamFormation/`: Contains team formation document
 - `ProjectPreliminary/`: Project vision document
@@ -9,7 +9,7 @@
 - `Elicitation/`: Elicitation Plan and Kano Model
 - `SRS/`: Software Requirements Specification
 
-## Members
+#### Members
 
 - Wee Jia Sheen 1211110222
 - Chia Kai Jun  1211111053
